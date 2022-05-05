@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+a {
+  color: black;
+  font-size: 2em;
+  text-decoration: none;
+}
+a:hover {
+  color: cornflowerblue;
+}
